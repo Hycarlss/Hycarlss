@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD AIDIL HAIKAL</h1>
-<h3 align="center">Im UTM Student studying Bachelor Science Computer ( Software Engineering )</h3>
+<h3 align="center">Im UTM Student studying Bachelor Science Computer ( Software Engineering )
+
+Sure, here's a suggestion for an introduction for your GitHub profile:
+
+👋 Hello there! Welcome to my GitHub profile!
+
+I'm [Your Name], a passionate [Your Role or Field] with a keen interest in [Specific Interests or Technologies]. With a background in [Your Background or Experience], I thrive on solving complex problems and building innovative solutions that make a difference.
+
+My journey in the world of technology has been driven by curiosity and a relentless pursuit of knowledge. From diving into the depths of [Specific Technologies or Frameworks] to exploring the latest trends in [Your Industry or Field], I'm always eager to learn and adapt to new challenges.
+
+Here on GitHub, you'll find a collection of my projects, ranging from [Describe Types of Projects or Technologies] to [Another Type of Projects]. Each repository reflects my dedication to craftsmanship, attention to detail, and a passion for pushing the boundaries of what's possible.
+
+Feel free to explore my work, contribute ideas, or collaborate on exciting projects. Let's connect, learn, and create together!
+
+Happy coding! 🚀
+
+[Optional: Add links to your other social media profiles or personal website]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hycarlss&label=Profile%20views&color=0e75b6&style=flat" alt="hycarlss" /> </p>
 
