@@ -5,7 +5,7 @@ Sure, here's a suggestion for an introduction for your GitHub profile:
 
 👋 Hello there! Welcome to my GitHub profile!
 
-I'm [Your Name], a passionate [Your Role or Field] with a keen interest in [Specific Interests or Technologies]. With a background in [Your Background or Experience], I thrive on solving complex problems and building innovative solutions that make a difference.
+I'm MUHAMMAD AIDIL HAIKAL BIN MAZALAN , a passionate [Your Role or Field] with a keen interest in [Specific Interests or Technologies]. With a background in [Your Background or Experience], I thrive on solving complex problems and building innovative solutions that make a difference.
 
 My journey in the world of technology has been driven by curiosity and a relentless pursuit of knowledge. From diving into the depths of [Specific Technologies or Frameworks] to exploring the latest trends in [Your Industry or Field], I'm always eager to learn and adapt to new challenges.
 
