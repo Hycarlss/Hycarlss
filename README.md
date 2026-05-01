@@ -4,17 +4,32 @@
 Sure, here's a suggestion for an introduction for your GitHub profile:
 
 👋 Hello there! Welcome to my GitHub profile!
+I’m Aidil Haikal, a Full-Stack Software Engineering student at Universiti Teknologi Malaysia with a mission to bridge the gap between complex backend logic and intuitive user experiences. I specialize in building scalable applications using Java (Spring Boot), React, and Flutter, with a growing focus on integrating Machine Learning into everyday tools.
 
-I'm MUHAMMAD AIDIL HAIKAL BIN MAZALAN , a passionate [Your Role or Field] with a keen interest in [Specific Interests or Technologies]. With a background in [Your Background or Experience], I thrive on solving complex problems and building innovative solutions that make a difference.
+🚀 My Tech Journey
+My path in technology is driven by a "build-to-learn" philosophy. Whether I'm architecting a Unified Campus Communication Hub or fine-tuning real-time object detection using YOLOv8, I thrive on solving high-impact problems. I’m particularly passionate about:
 
-My journey in the world of technology has been driven by curiosity and a relentless pursuit of knowledge. From diving into the depths of [Specific Technologies or Frameworks] to exploring the latest trends in [Your Industry or Field], I'm always eager to learn and adapt to new challenges.
+Full-Stack Excellence: Crafting robust APIs and seamless cross-platform mobile interfaces.
 
-Here on GitHub, you'll find a collection of my projects, ranging from [Describe Types of Projects or Technologies] to [Another Type of Projects]. Each repository reflects my dedication to craftsmanship, attention to detail, and a passion for pushing the boundaries of what's possible.
+AI Integration: Bringing intelligence to apps via Hugging Face and TensorFlow Lite.
 
-Feel free to explore my work, contribute ideas, or collaborate on exciting projects. Let's connect, learn, and create together!
+Performance & Scale: Leveraging Spring Boot and SQL to create efficient, data-driven systems.
+
+🛠️ What You’ll Find Here
+My repositories are a mix of academic rigor and personal curiosity, including:
+
+Mobile Solutions: Feature-rich apps focused on community interaction and marketplace dynamics.
+
+AI-Powered Projects: Experiments in computer vision and intelligent automation.
+
+Enterprise Logic: Clean, maintainable code implementations using Java and C++.
+
+⚡ Beyond the Code
+When I'm not debugging or designing schemas, you’ll likely find me on the badminton court or training for my next long-distance run. I believe the discipline of a 20km run translates directly into the persistence needed to squash a stubborn bug!
+
+Feel free to explore my work, open an issue, or reach out for a collaboration. Let’s build something that matters!
 
 Happy coding! 🚀
-
 [Optional: Add links to your other social media profiles or personal website]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hycarlss&label=Profile%20views&color=0e75b6&style=flat" alt="hycarlss" /> </p>
