@@ -1,4 +1,4 @@
-<h1>👋 Hello there! Welcome to my GitHub profile!</h1>
+<h1>👋 HELLO , WELCOME TO MY GITHUB PROFILE !</h1>
 I’m Aidil Haikal, a Full-Stack Software Engineering student at Universiti Teknologi Malaysia with a mission to bridge the gap between complex backend logic and intuitive user experiences. I specialize in building scalable applications using Java (Spring Boot), React, and Flutter, with a growing focus on integrating Machine Learning into everyday tools.
 
 🚀 My Tech Journey
